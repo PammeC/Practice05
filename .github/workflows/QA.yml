@@ -6,7 +6,6 @@ on:
     branches:
       - QA
       
- 
 jobs:
   deploy:
     name: Deploy to EC2 on test branch push
